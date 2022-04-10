@@ -2,7 +2,7 @@
   "name": "@georgedoescode/shapes",
   "type": "module",
   "source": "lib/index.js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "exports": {
     "require": "./dist/shapes.cjs",
     "default": "./dist/shapes.modern.js"
